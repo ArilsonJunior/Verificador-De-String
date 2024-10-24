@@ -1,0 +1,7 @@
+D:\TESTE\VerificadorDeString\VerificadorDeString\bin\Debug\VerificadorDeString.exe.config
+D:\TESTE\VerificadorDeString\VerificadorDeString\bin\Debug\VerificadorDeString.exe
+D:\TESTE\VerificadorDeString\VerificadorDeString\bin\Debug\VerificadorDeString.pdb
+D:\TESTE\VerificadorDeString\VerificadorDeString\obj\Debug\VerificadorDeString.csproj.AssemblyReference.cache
+D:\TESTE\VerificadorDeString\VerificadorDeString\obj\Debug\VerificadorDeString.csproj.CoreCompileInputs.cache
+D:\TESTE\VerificadorDeString\VerificadorDeString\obj\Debug\VerificadorDeString.exe
+D:\TESTE\VerificadorDeString\VerificadorDeString\obj\Debug\VerificadorDeString.pdb
